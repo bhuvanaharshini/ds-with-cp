@@ -39,8 +39,8 @@ class Main {
         
         System.out.println(roll1);
         
-        roll1.name="Ram";
-        roll1.age=21;
+        roll1.name="bhu";
+        roll1.age=18;
         
         roll1.getName(); 
          roll1.getAge(); 
